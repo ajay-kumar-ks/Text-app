@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# The Text app is a React App
+
+This is my frist project in react js , when i was in learning state . This is a usefull app for every one , a single page app, that will help you to perform many text baised task like , delete extra spaces , word count , etc..  
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
